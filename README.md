@@ -1,6 +1,6 @@
 <h2>About</h2>
 
-<p>The dashboard provides a summary of your Ep Ops upgrade progress. Use this dashboard to easily discover instances of where the Ep Ops Agent is installed but running on a version below version 7.5.</p>
+<p>The dashboard provides a summary of the internal alerts and alarms database. When the count of records is too high, the performance of vROps can be impacted. This dahsboard provides a simple way to monitor the alert and alarms count.</p>
 <a href="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Sample_Dashboard.png" target="_blank"><img alt="Sample Dashboard" src="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Sample_Dashboard.png" /></a>
 
 <h2>Installation</h2>
