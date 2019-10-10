@@ -13,7 +13,7 @@
 	<a href="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Import_Dashboard.png" target="_blank"><img alt="Import Dashboard" src="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Import_Dashboard.png" /></a></li>
 	<li>Click <code>Browse...</code> then select the file named <a href="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Dashboard%20-%20Alert%20and%20Alarms%20Count.zip" target="_blank">Dashboard - Alert and Alarms Count.zip</a></li>
 	<li>The dashboard should now be available in in the dashboard list<br />
-	<a href="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Manage_Dashboards.PNG" target="_blank"><img alt="Dashboard List" src="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Manage_Dashboards.PNG" /></a></li>
+	<a href="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Manage_Dashboards.png" target="_blank"><img alt="Dashboard List" src="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Manage_Dashboards.png" /></a></li>
 </ol>
 
 <h2>Support</h2>
