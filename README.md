@@ -1,6 +1,6 @@
 <h2>About</h2>
 
-<p>This dashboard provides a summary of the internal alerts and alarms database. When the count of records is too high, the performance of vROps can be impacted. This dahsboard provides a simple way to monitor the alert and alarms count.</p>
+<p>This dashboard provides a summary of the internal alerts and alarms database. When the count of records is too high, the performance of vROps can be impacted. This dahsboard provides a simple way to monitor the alerts and alarms count.</p>
 <a href="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Sample_Dashboard.png" target="_blank"><img alt="Sample Dashboard" src="https://github.com/GaryFlynn/vrops-dashboards-alerts-and-alarms-count/raw/master/Sample_Dashboard.png" /></a>
 
 <h2>Installation</h2>
